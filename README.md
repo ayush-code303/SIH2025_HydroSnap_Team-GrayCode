@@ -11,6 +11,11 @@
 
 </div>
 
+## NOTE: 
+ITS A SAMPLE COPY OF OUR FINAL WORK ON SIH 2025 PROJECT FOR PROOF AND VERIFICATION PURPOSE ONLY, NOT FOR COMMERCIAL USE. PLEASE DO NOT USE ANY CONTENT WITHOUT PERMISSION FROM THE ORIGINAL AUTHORS (TEAM - GRAYCODE).
+
+---
+
 ## 📌 Overview
 **HydroSnap** is a mobile-first solution to modernize and secure **river water-level monitoring** using **image processing, geofencing, and cloud integration**.  
 It provides reliable, tamper-proof, and scalable data collection to support **flood forecasting, disaster preparedness, and water resource management**.  
