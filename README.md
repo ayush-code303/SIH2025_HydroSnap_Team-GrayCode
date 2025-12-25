@@ -1,7 +1,7 @@
 <div align="center">
 
-![License](https://img.shields.io/github/license/mohsinansari0705/SIH2025-HydroSnap)
-![Build](https://img.shields.io/github/actions/workflow/status/mohsinansari0705/SIH2025-HydroSnap/ci.yml?label=Build)
+![License](https://img.shields.io/github/license/ayush-code303/SIH2025-HydroSnap)
+![Build](https://img.shields.io/github/actions/workflow/status/ayush-code303/SIH2025-HydroSnap/ci.yml?label=Build)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Tech](https://img.shields.io/badge/Made%20with-Android%20%7C%20FastAPI%20%7C%20Postgres%20%7C%20OpenCV-blue)
 
@@ -10,6 +10,11 @@
 <img src="assets/icons/HydroSnap_logo.png" alt="HydroSnap Application logo" heigt=500 width=500>
 
 </div>
+
+## NOTE: 
+ITS A SAMPLE COPY OF OUR FINAL WORK ON SIH 2025 PROJECT FOR PROOF AND VERIFICATION PURPOSE ONLY, NOT FOR COMMERCIAL USE. PLEASE DO NOT USE ANY CONTENT WITHOUT PERMISSION FROM THE ORIGINAL AUTHORS (TEAM - GRAYCODE).
+
+---
 
 ## 📌 Overview
 **HydroSnap** is a mobile-first solution to modernize and secure **river water-level monitoring** using **image processing, geofencing, and cloud integration**.  
@@ -77,9 +82,9 @@ flowchart TD
 
 | Name            | Role                          |
 |-----------------|-------------------------------|
+| [`Ayush`](https://github.com/ayush-code303)     | Backend Development       |
 | [`Mohsin Ansari`](https://github.com/mohsinansari0705)   | Model Integration & Backend |
 | [`Rohit Yadav`](https://github.com/RohityadavGG)     | Data & Visualizations       |
-| [`Ayush`](https://github.com/ayush-code303)     | Backend Development       |
 | [`Prerna Verma`](https://github.com/prerna-verma29)     | UI/UX       |
 | [`Payal Katara`](https://github.com/Payal-katara)     | UI/UX & R&D       |
 | [`Kunal Singh`](https://github.com/Kunal-Singh76)     | Testing & Reporting       |
